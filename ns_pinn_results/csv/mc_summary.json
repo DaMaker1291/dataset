@@ -1,0 +1,9 @@
+{
+  "n_trials": 50,
+  "mean_vorticity": 0.00019728921412024648,
+  "std_vorticity": 9.162931315959472e-05,
+  "min_vorticity": 3.36593875545077e-05,
+  "max_vorticity": 0.0004557199717964977,
+  "mean_div_res": 0.00013510408614820336,
+  "mean_final_loss": 1.0370344271137811e-06
+}
